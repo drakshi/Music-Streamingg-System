@@ -13,7 +13,7 @@ If a user login to a premium account (due to the limitation of the available API
 * Remotely control this app from anywhere (mobile, tablet , desktop)
 * Has an secure authentication method to get token
 * Has a similar interface to Spotify Web.
-* Official Spotify API Use
+* Official Spotify API is used
 
 # Snapshots
 
